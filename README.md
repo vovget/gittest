@@ -1,4 +1,4 @@
 # This project is used to test git command.
 test ban ben hui tui
 make some changes of this file.
-change from the branch "dev"
+This line is changed from the NEW branch "dev"
